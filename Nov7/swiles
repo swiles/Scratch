@@ -1,0 +1,81 @@
+Go to Scratch for Budding Computer Scientists (link on bit.ly/SAHSCS) and answer the 
+ following questions. 
+ 
+ 
+ You will need to create a file that is named your username and paste your answers in it. 
+ After you have completed the questions, submit a pull request in this same repository. 
+ 
+ 
+ 1) Why is there such a "learning curve" when learning a traditional programming 
+ language such as Java? 
+ Learning a new code is basically like learning a new language, you have to learn it before you can understand it.
+ 
+ 
+ 
+ 2) What is learning to program ultimately about? 
+ Learning code is all about approaching problems methodically and logically.
+ 
+ 
+ 
+ 3) How does Scratch "lower the bar" to programming? 
+ Scratch helps lower the bar by making coders focus on coding rather than syntax
+ 
+ 
+ 
+ 4) What is a statement in a programming language? 
+ A statement is a directive that tells a computer to do something
+ 
+ 
+ 
+ 5) What is a Boolean expression? 
+ A Boolean expressin is an expression that is either true or false
+ 
+ 
+ 
+ 6) What is a conditional statement? 
+ It is something that must be true for a process to continue
+ 
+ 
+ 
+ 7) What is a loop used for in a programming language? 
+ Loop can induce multiple executions of a statement or statements
+ 
+ 
+ 
+ 8) What is the difference between a local variable and a global variable? 
+ Local variables are used by one sprite in scratch while global variables are used by all sprites
+
+ 
+ 
+ 9) What is a Boolean variable? 
+ A variable that takes on a value based on if a value is true or false 
+ 
+ 
+ 
+ 10) Which type of blocks in Scratch can be considered threads? 
+ The event blocks are considered threads because they execute multiple codes
+ 
+ 
+ 
+ 11) Which type of blocks in Scratch can be considered event handlers? 
+ Event handling blocks are blocks that recieve and react.
+ 
+ 
+ 
+ 12) How many sprites are implemented in Oscartime? 
+ Oscar time is implemented with nine sprites
+ 
+ 
+ 
+ 13) How many threads are used to display the Oscartime game instructions? 
+ One Thread for the game instuctions
+ 
+ 
+ 
+ 14) How many threads are used by Oscartime's Oscar sprite? 
+ 1-3 threads are used for each sprite
+ 
+ 
+ 
+ 15) What programming constructs does Scratch NOT support? 
+It does not support methods, parameters, return values, inheritance, and polymorphism
